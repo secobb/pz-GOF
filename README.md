@@ -1,4 +1,4 @@
-# GoF Design Patterns in TypeScript
+# Реалізація GOF патернів проєктування
 
 
 
